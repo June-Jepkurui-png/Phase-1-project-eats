@@ -1,0 +1,23 @@
+[
+  {
+    "email": "jepkiruijune@gmail.com",
+    "type of food": "Pizza Slice",
+    "location": "Main Gate",
+    "price": 5.00,
+    "image": "https://images.pexels.com/photos/4109077/pexels-photo-4109077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "email": "jepkiruijune@gmail.com",
+    "type of food": "Burger",
+    "location": "Cafeteria",
+    "price": 3.00,
+    "image": "https://images.pexels.com/photos/23106708/pexels-photo-23106708/free-photo-of-hamburger-and-vegetables-on-a-plate.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "email": "jepkiruijune@gmail.com",
+    "type of food": "Rice stew",
+    "location": "Back Gate",
+    "price": 1.2,
+    "image": "https://images.pexels.com/photos/4611425/pexels-photo-4611425.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+]
