@@ -1,0 +1,74 @@
+/* Custom CSS for Moringa UberEat */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .card-body {
+    padding: 15px;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    margin-bottom: 5px;
+  }
+  
+  .card-text {
+    color: #666;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+  }
+  
+  #orderSummary {
+    margin-top: 30px;
+  }
+  
+  #totalCost {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  @media (max-width: 576px) {
+    .container {
+      padding: 10px;
+    }
+  }
+  
